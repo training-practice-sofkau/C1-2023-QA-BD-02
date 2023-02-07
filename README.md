@@ -7,8 +7,9 @@
 1. Verificar el modelo entidad relación realizado en la actividad anterior. https://github.com/training-practice-sofkau/C1-2023-QA-BD-01 
 2. Transformar el modelo E-R en un M-R.
 3. Normalizar el modelo. 
-4. Elaborar un **documento PDF** con la imagen del modelo ER, capturas de pantalla con la transformación del modelo y por lo menos un registro completo de cada una de sus tablas.
-5. Mínimo 3 commits claros y con buenas practicas.
+4. Elaborar un **documento PDF** con la imagen del modelo ER, capturas de pantalla con la transformación del modelo
+y por lo menos un registro completo de cada una de sus tablas.
+5. Mínimo 3 commits claros y con buenas prácticas.
 
 ## Entrega:
 
